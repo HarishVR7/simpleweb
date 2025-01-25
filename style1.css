@@ -117,7 +117,7 @@ img {
     
 }
 
-@media (max-width:480px)  {
+@media (max-width:360px)  {
          
     .tittle{
         font-size : 14px;
